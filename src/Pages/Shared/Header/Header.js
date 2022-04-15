@@ -4,7 +4,7 @@ import image from '../../../imges/logo-light.png'
 import './Header.css'
 const Header = () => {
     return (
-        <nav style={{ background: "black" }}>
+        <nav className='nav-container'>
             <div className='logo-menu-container'>
                 <div className='logo'>
                     <img src={image} alt="" />

@@ -1,12 +1,11 @@
 import React from 'react';
 
-
-const Blog = () => {
+const Winter = () => {
     return (
         <div>
-
+            <h1>Hello winter</h1>
         </div>
     );
 };
 
-export default Blog;
+export default Winter;
