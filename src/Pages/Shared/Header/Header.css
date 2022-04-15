@@ -1,0 +1,33 @@
+.isActive {
+    color: orange;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.logo-menu-container {
+    display: flex;
+    height: 80px;
+    align-items: center;
+    width: 1170px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.menu-container {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.sing-in-up-container {
+    margin-left: 65px;
+}
